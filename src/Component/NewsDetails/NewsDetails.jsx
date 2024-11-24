@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import RighSidebar from './../../Pages/Shared/RighSidebar/RighSidebar';
+
+import RightSidebar from './../../Pages/Shared/RightSidebar/RightSidebar';
 import Header from './../../Pages/Shared/Header/Header'
 import { useLoaderData, useParams } from 'react-router-dom';
 import Navbar from '../../Pages/Shared/Navbar/Navbar';
@@ -42,7 +42,7 @@ const NewsDetails = () => {
 
 
                 </div>
-                <RighSidebar></RighSidebar>
+                <RightSidebar></RightSidebar>
             </div>
 
         </div>

@@ -1,34 +1,42 @@
 [
     {
         "id": "0",
-        "name": "All News"
+        "name": "All News",
+        "path": "allNews"
     },
     {
         "id": "1",
-        "name": "Breaking News"
+        "name": "Breaking News",
+        "path": "breakingNews"
     },
     {
         "id": "2",
-        "name": "Regular News"
+        "name": "Regular News",
+        "path": "regularNews"
     },
     {
         "id": "3",
-        "name": "International News"
+        "name": "International News",
+        "path": "internationalNews"
     },
     {
         "id": "4",
-        "name": "Sports"
+        "name": "Sports",
+        "path": "sportsNews"
     },
     {
         "id": "5",
-        "name": "Entertainment"
+        "name": "Entertainment",
+        "path": "entertainmentNews"
     },
     {
         "id": "6",
-        "name": "Culture"
+        "name": "Culture",
+        "path": "cultureNews"
     },
     {
         "id": "7",
-        "name": "Arts"
+        "name": "Arts",
+        "path": "artsNews"
     }
 ]
